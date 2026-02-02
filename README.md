@@ -1,5 +1,3 @@
-add vectorDB,pinecone,RAG,chatbots,langcgain
-"# 💫 About Me:
 I am an **AI/ML Engineer** and software engineering professional with expertise in machine learning, NLP, and software development. Skilled in Python, Django, and modern ML frameworks, I specialize in building scalable AI-driven solutions. With experience as a Machine Learning Engineer and Senior Programmer, I am passionate about research, teaching, and developing innovative technologies.
 
 
