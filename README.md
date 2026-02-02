@@ -18,6 +18,12 @@ I am an **AI/ML Engineer** and software engineering professional with expertise 
 ![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge) 
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge) 
 ![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-FF4500?style=for-the-badge) 
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge) 
+![Chatbots](https://img.shields.io/badge/AI%20Chatbots-228B22?style=for-the-badge) 
+
+![VectorDB](https://img.shields.io/badge/Vector%20Database-00008B?style=for-the-badge) 
+![Pinecone](https://img.shields.io/badge/Pinecone-0055FF?style=for-the-badge&logo=pinecone&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) 
 
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) 
@@ -30,8 +36,6 @@ I am an **AI/ML Engineer** and software engineering professional with expertise 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -43,9 +47,8 @@ I am an **AI/ML Engineer** and software engineering professional with expertise 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+ 
 
 
 # 📊 GitHub Stats:
